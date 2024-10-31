@@ -6,7 +6,7 @@ function App() {
       <div class="d-flex justify-content-center">
         <Card style={{ width: '18rem',border:'2px'}}>
           <Card.Body>
-            <Button variant="primary">Blinks GM</Button>
+            <Button variant="primary">Hi Ank</Button>
           </Card.Body>
         </Card>
       </div>
