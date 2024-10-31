@@ -1,0 +1,31 @@
+.profile {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  
+  .profile-header {
+    text-align: center;
+  }
+  
+  .profile-image {
+    width: 150px;
+    border-radius: 50%;
+  }
+  
+  .profile-title {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  .profile-summary, .profile-skills, .profile-projects {
+    margin: 20px 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
